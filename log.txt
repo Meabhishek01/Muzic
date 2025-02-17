@@ -8,3 +8,4 @@
 [2025-02-01 20:54:21 UTC] commit     5/120 — Reviewed documentation and updated notes.
 [2025-02-08 19:55:51 UTC] commit     6/120 — Verified API response schemas.
 [2025-02-11 17:30:07 UTC] commit     7/120 — Reviewed security best practices.
+[2025-02-17 20:50:23 UTC] commit     8/120 — Reorganised project directory layout.
