@@ -10,3 +10,4 @@
 [2025-02-11 17:30:07 UTC] commit     7/120 — Reviewed security best practices.
 [2025-02-17 20:50:23 UTC] commit     8/120 — Reorganised project directory layout.
 [2025-02-27 13:36:58 UTC] commit     9/120 — Polished README and inline docs.
+[2025-03-04 13:40:50 UTC] commit    10/120 — Improved error handling and logging.
