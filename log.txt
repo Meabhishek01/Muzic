@@ -50,3 +50,4 @@
 [2025-07-28 09:46:39 UTC] commit    47/120 — Benchmarked critical code paths.
 [2025-08-02 17:59:03 UTC] commit    48/120 — Synced latest upstream changes.
 [2025-08-11 12:02:44 UTC] commit    49/120 — Wrote additional inline comments.
+[2025-08-17 10:57:23 UTC] commit    50/120 — Polished README and inline docs.
