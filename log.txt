@@ -83,3 +83,4 @@
 [2026-01-11 20:28:40 UTC] commit    80/120 — Updated dependency versions.
 [2026-01-17 19:50:29 UTC] commit    81/120 — Added edge-case handling.
 [2026-01-19 08:04:12 UTC] commit    82/120 — Checked for potential memory leaks.
+[2026-01-20 14:05:20 UTC] commit    83/120 — Reorganised project directory layout.
