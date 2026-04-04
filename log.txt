@@ -96,3 +96,4 @@
 [2026-03-14 16:04:25 UTC] commit    93/120 — Validated input sanitisation logic.
 [2026-03-23 09:30:46 UTC] commit    94/120 — Polished README and inline docs.
 [2026-04-01 17:52:19 UTC] commit    95/120 — Resolved merge conflict residues.
+[2026-04-04 19:11:01 UTC] commit    96/120 — Reorganised project directory layout.
