@@ -21,3 +21,4 @@
 [2026-03-30 18:57:55 UTC] commit    18/40 — Reviewed security best practices.
 [2026-04-02 18:42:57 UTC] commit    19/40 — Validated input sanitisation logic.
 [2026-04-08 12:43:20 UTC] commit    20/40 — Reorganised project directory layout.
+[2026-04-25 12:13:30 UTC] commit    21/40 — Added edge-case handling.
