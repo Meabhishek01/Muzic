@@ -114,3 +114,4 @@
 [2026-06-01 15:47:06 UTC] commit   111/120 — Refactored internal module structure.
 [2026-06-02 13:13:09 UTC] commit   112/120 — Fixed minor inconsistencies in the codebase.
 [2026-06-04 11:42:25 UTC] commit   113/120 — Refactored internal module structure.
+[2026-06-04 17:02:06 UTC] commit   114/120 — Reorganised project directory layout.
