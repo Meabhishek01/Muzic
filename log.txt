@@ -117,3 +117,4 @@
 [2026-06-04 17:02:06 UTC] commit   114/120 — Reorganised project directory layout.
 [2026-06-07 14:12:35 UTC] commit   115/120 — Benchmarked critical code paths.
 [2026-06-09 18:13:15 UTC] commit   116/120 — Synced latest upstream changes.
+[2026-06-12 09:35:57 UTC] commit   117/120 — Polished README and inline docs.
