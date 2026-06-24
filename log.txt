@@ -38,3 +38,4 @@
 [2026-06-09 12:02:59 UTC] commit    35/40 — Synced latest upstream changes.
 [2026-06-09 20:02:27 UTC] commit    36/40 — Synced latest upstream changes.
 [2026-06-19 22:46:08 UTC] commit    37/40 — Validated input sanitisation logic.
+[2026-06-24 10:40:09 UTC] commit    38/40 — Reorganised project directory layout.
